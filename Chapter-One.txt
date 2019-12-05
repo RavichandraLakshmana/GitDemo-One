@@ -1,0 +1,10 @@
+Getting Started with Python
+
+Introduction to Python
+
+Python, a general-purpose programming language, has been around for quite a
+while: Guido van Rossum, Python’s creator, started developing Python back in
+1990. This stable and mature language is very high-level, dynamic, objectoriented,
+and cross-platform—all very attractive characteristics. Python runs on
+all major hardware platforms and operating systems, so it doesn’t constrain your
+choices.
